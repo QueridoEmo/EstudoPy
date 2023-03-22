@@ -1,2 +1,2 @@
 s = 'Estou com fome'
-print (s.upper())
+print (s.capitalize())
