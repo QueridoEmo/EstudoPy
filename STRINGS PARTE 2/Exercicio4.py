@@ -1,2 +1,2 @@
-s = 'Estou com fome'
+s = 'Estou com fome demais'
 print (s.split())
