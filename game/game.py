@@ -6,7 +6,7 @@ y = 300
 pos_X = 200
 pos_Y = 300
 velocidade_objeto1 = 10
-velocida_Npc = 13
+velocidade_Npc = 13
 
 tela_fundo1 = pygame.image.load('game/estrada_estagio_1.png')
 carro = pygame.image.load('game/carropreto.png')
