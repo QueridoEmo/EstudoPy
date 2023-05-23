@@ -17,7 +17,7 @@ carro_npc_2 = pygame.image.load('game/carronpc3.png')
 janela = pygame.display.set_mode((800,600))
 #nome da janela abaixo
 
-pygame.display.set_caption("First Game")
+pygame.display.set_caption("Carrinhos do Emo")
 
 janela_aberta = True
 while janela_aberta :
@@ -37,7 +37,7 @@ while janela_aberta :
         x+= velocidade_objeto1
     if comandos[pygame.K_LEFT]:
         x-= velocidade_objeto1 
-    pos_Y -= velocida_Npc
+    pos_Y -= velocidade_Npc
     if (pos_Y <= -600):
         pos_Y = 600
            
