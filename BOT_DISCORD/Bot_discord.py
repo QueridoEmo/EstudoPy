@@ -30,4 +30,4 @@ async def dado (interaction: discord.Integration):
     await interaction.response.send_menssage(f"Dado Número: {numero}", ephemeral = False)
 
 
-aclient.run("MTE0ODI2OTkzNzUzMDUxOTY4Mg.GXlAZg.yib3UxxbAl2_CarnwGQPTqt5hOznTUHi2SZN40")
+aclient.run("")
