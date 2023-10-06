@@ -1,0 +1,35 @@
+:root {
+    --purple-300: #8505b3;
+    --purple-400: #2f1039;
+    --purple-500: #340045;
+    --purple-200: #c447ed;
+
+}
+a {
+    text-decoration: none;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.textSobreMim {
+    font-size: 2rem;
+    color: var(--purple-500);
+}
+
+body {
+    margin: 0;
+
+}
+
+.menuPrincipal {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 36px;
+
+}
