@@ -35,13 +35,22 @@ body {
 }
 
 .menuPrincipal {
-    color: #49cf0e;
-    font-size: ;
-    background-color: #000000;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    padding: -9px;
+        color: #49cf0e;
+        background-color: #000000;
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        padding: -9px;
+}
+.linksDoMenu {
+        color: #49cf0e;
+        font-size: ;
+        background-color: #000000;
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        padding: -9px;
+    
 
 }
 .barra-colorida {
