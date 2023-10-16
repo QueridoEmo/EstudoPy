@@ -19,7 +19,7 @@ p {
 }
 
 .textSobreMim {
-    font-size: 2rem;
+    font-size: 1rem;
     color: var(--purple-500);
 }
 
@@ -36,3 +36,5 @@ body {
     padding: 36px;
 
 }
+
+
