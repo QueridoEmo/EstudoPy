@@ -31,3 +31,5 @@ async def dado (interaction: discord.Integration):
 
 
 aclient.run("")
+
+I HATE THIS SHIT
